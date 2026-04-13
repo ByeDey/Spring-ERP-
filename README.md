@@ -10,8 +10,8 @@
 |------|------|
 | 프로젝트명 | GWERP (GroupWare ERP) |
 | 유형 | 팀 프로젝트 |
-| 기간 | 20XX.XX ~ 20XX.XX |
-| 인원 | X명 |
+| 기간 | 2025.03.20 ~ 2025.04.10 |
+| 인원 | 5명 |
 | 역할 | (예: 로그인·인증, 결재 모듈 담당) |
 
 사원 관리, 근태, 전자결재, 메시지, 급여, 공지사항 등 기업 내 다양한 업무를 하나의 플랫폼에서 처리할 수 있는 **그룹웨어 ERP 시스템**입니다.
@@ -142,16 +142,6 @@ mvn clean package
 | 이정률 | QR로그인, 이메일 인증, 출퇴근, 급여|
 | 유명훈 | 메일, SPA 구성 |
 | 권유성 | 공지사항 |
-
----
-
-## 📸 화면 예시
-
-> 스크린샷을 `/docs/screenshots/` 폴더에 추가 후 아래 경로를 수정하세요.
-
-| 대시보드 | 전자결재 | 메시지 |
-|---------|---------|-------|
-| ![dashboard](docs/screenshots/dashboard.png) | ![approval](docs/screenshots/approval.png) | ![message](docs/screenshots/message.png) |
 
 ---
 
